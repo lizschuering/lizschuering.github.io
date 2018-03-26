@@ -217,6 +217,10 @@ input, textarea {
     margin-bottom: 10px;
 }
 
+.display {
+    display: none;
+}
+
 .social-media   {
     display: flex;
     flex-direction: column;
