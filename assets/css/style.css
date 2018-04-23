@@ -164,11 +164,13 @@ a {
 }
 
 .portfolio-6-image {
+    background-image: url(../images/mountain-6.jpg);
     width: 250px;
     height: 250px;
+    margin-bottom: 20px;  
 }
 
-.portfolio-1-text, .portfolio-2-text, .portfolio-3-text, .portfolio-4-text, .portfolio-5-text  {
+.portfolio-1-text, .portfolio-2-text, .portfolio-3-text, .portfolio-4-text, .portfolio-5-text, .portfolio-6-text  {
     background-color: #4aaaa5;
     width: 250px;
     height: 50px;
